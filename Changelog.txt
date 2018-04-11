@@ -1,0 +1,6 @@
+Changelog for v1.1
+--------------------
+** Initial release **
+
+Regards,
+rockz5555
